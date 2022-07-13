@@ -19,7 +19,11 @@
 
 # R
 Название   |Описание | Стек 
------------|:-------:|:----: 
+:---------:|:-------:|:----: 
 [Dr. Semmelweis and the discovery of handwashing](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/R/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing)| Анализ данных на R, лежащих в основе одного из самых важных открытий современной медицины: мытья рук. | Tidyverse
-[Introduction to DataCamp Projects](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/R/Introduction%20to%20DataCamp%20Projects)| Обучающий проект в DataCamp. | Forecast, ggplot2
+[Introduction to DataCamp Projects](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/R/Introduction%20to%20DataCamp%20Projects)| Обучающий проект в DataCamp на языке R. | Forecast, ggplot2
 
+# SQL
+Название   |Описание | Стек
+-----------|:-------:|:------:
+[Introduction to DataCamp Projects](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/SQL/Introduction%20to%20DataCamp%20Projects) | Обучающий проект в DataCamp на языке SQL.            | Matplotlib, sqlalchemy, postgreSQL
