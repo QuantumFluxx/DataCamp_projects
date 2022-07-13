@@ -15,3 +15,11 @@
 [Risk and Returns: The Sharpe Ratio](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Python/Risk%20and%20Returns%20-%20The%20Sharpe%20Ratio)|Использовали pandas для расчета и сравнения прибыльности и риска различных инвестиций с использованием коэффициента Шарпа.| Pandas, numpy, matplotlib
 [The GitHub History of the Scala Language](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Python/The%20GitHub%20History%20of%20the%20Scala%20Language)|Нашли настоящих экспертов по Scala, изучив историю ее разработки в Git и GitHub.| Pandas, matplotlib
 [Who Is Drunk and When in Ames, Iowa](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Python/Who%20Is%20Drunk%20and%20When%20in%20Ames%2C%20Iowa)| Изучили данные о тестах на алкоголь в Эймс, Айова, США. | Pandas, matplotlib
+
+
+# R
+Название   |Описание | Стек 
+-----------|:-------:|:----: 
+[Dr. Semmelweis and the discovery of handwashing](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/R/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing)| Анализ данных на R, лежащих в основе одного из самых важных открытий современной медицины: мытья рук. | Tidyverse
+[Introduction to DataCamp Projects](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/R/Introduction%20to%20DataCamp%20Projects)| Обучающий проект в DataCamp. | Forecast, ggplot2
+
