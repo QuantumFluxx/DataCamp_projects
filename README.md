@@ -29,3 +29,12 @@
 Название   |Описание | Стек
 -----------|:-------:|:------:
 [Introduction to DataCamp Projects](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/SQL/Introduction%20to%20DataCamp%20Projects) | Обучающий проект в DataCamp на языке SQL.            | Matplotlib, sqlalchemy, postgreSQL
+
+---------------------
+
+### Дополнительно
+**В репозиторий [karpov_courses](https://github.com/QuantumFluxx/karpov_courses) я буду добавлять проекты, лекции и практические задания с курса дополнительного профессионального образования по направлению "Аналитик данных".**
+
+**В репозиторий [pet_projects](https://github.com/QuantumFluxx/pet_projects) сохраняю pet-проекты.**
+
+**В репозиторий [Stepik_courses](https://github.com/QuantumFluxx/Stepik_courses) сохраняю пройденные курсы.**
