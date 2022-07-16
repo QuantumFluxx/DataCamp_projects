@@ -8,6 +8,7 @@
 Название   |Описание | Стек 
 -----------|:-------:|:----: 
 [A Network analysis of Game of Thrones](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Python/A%20Network%20analysis%20of%20Game%20of%20Thrones) | Проанализировали сеть персонажей в «Игре престолов» и то, как она меняется на протяжении книг. | Pandas, networkx, matplotlib 
+[Bad passwords and the NIST guidelines](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Python/Bad%20passwords%20and%20the%20NIST%20guidelines) | Проверили, какие пароли не соответствуют рекомендациям по паролям Национального института стандартов и технологий. | Pandas
 [Comparing Cosmetics by Ingredients](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Python/Comparing%20Cosmetics%20by%20Ingredients)|Обработали списки ингредиентов для косметики на Sephora, а затем визуализировали сходство с помощью t-SNE и Bokeh.| Pandas, numpy, sklearn, bokeh
 [Disney Movies and Box Office Success](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Python/Disney%20Movies%20and%20Box%20Office%20Success)| Изучили данные о фильмах Disney, а затем построили модель линейной регрессии, чтобы прогнозировать кассовые сборы. | Pandas, seaborn, sklearn, numpy
 [Dr. Semmelweis and the discovery of handwashing](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Python/Dr.%20Semmelweis%20and%20the%20discovery%20of%20handwashing)| Анализ данных, лежащих в основе одного из самых важных открытий современной медицины: мытья рук. | Pandas, matplotlib
