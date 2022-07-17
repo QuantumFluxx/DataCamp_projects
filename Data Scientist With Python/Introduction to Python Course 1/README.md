@@ -1,0 +1,4 @@
+# Course Description
+Python is a general-purpose programming language that is becoming more and more popular for doing data science. Companies worldwide are using Python to harvest insights from their data and get a competitive edge. Unlike any other Python tutorial, this course focuses on Python specifically for data science. In our Intro to Python class, you will learn about powerful ways to store and manipulate data as well as cool data science tools to start your own analyses. Enter DataCamp’s online Python curriculum.  
+
+<img src = 'https://camo.githubusercontent.com/86e220bd7ca046ba6c6d3cd01a795f45b0a2b4e8/68747470733a2f2f6173736574732e6461746163616d702e636f6d2f70726f64756374696f6e2f636f757273655f3733352f736869656c64732f6f726967696e616c2f736869656c645f696d6167655f636f757273655f3733355f32303138303830312d31322d316b65733067643f31353333313434343833'>
