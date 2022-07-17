@@ -2,15 +2,22 @@
 
 ![](https://dataresident.com/wp-content/uploads/2021/12/is-datacamp-worth-it.png)
 
+
 # Data Scientist With Python
 
-Название   |Описание | Стек 
-:---------:|:-------:|:----: 
-[Introduction to Python](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Data%20Scientist%20With%20Python/Introduction%20to%20Python%20Course%201) | Python is a general-purpose programming language that is becoming more and more popular for doing data science. Companies worldwide are using Python to harvest insights from their data and get a competitive edge. Unlike any other Python tutorial, this course focuses on Python specifically for data science. In our Intro to Python class, you will learn about powerful ways to store and manipulate data as well as cool data science tools to start your own analyses. | Math, numpy
-[Intermediate Python for Data Science](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Data%20Scientist%20With%20Python/Intermediate%20Python%20for%20Data%20Science%20Course%202) | The intermediate python course is crucial to your data science curriculum. Learn to visualize real data with matplotlib's functions and get to know new data structures such as the dictionary and the Pandas DataFrame. | Matplotlib, pandas, IPython, numpy
-[Python Data Science Toolbox (Part 1)](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Data%20Scientist%20With%20Python/Python%20Data%20Science%20Toolbox%20(Part%201)%20Course%203) | It's now time to push forward and develop your Python chops even further. There are lots and lots of fantastic functions in Python and its library ecosystem. However, as a Data Scientist, you'll constantly need to write your own functions to solve problems that are dictated by your data. The art of function writing is what you'll learn in this first Python Data Science toolbox course. | Pandas, functools 
-[Python Data Science Toolbox (Part 2)](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Data%20Scientist%20With%20Python/Python%20Data%20Science%20Toolbox%20(Part%202)%20Course%204) | In this second course in the Python Data Science Toolbox, you'll continue to build your Python Data Science skills. First you'll enter the wonderful world of iterators, objects that you have already encountered in the context of for loops without having necessarily known it. You'll then learn about list comprehensions, which are extremely handy tools that form a basic component in the toolbox of all modern Data Scientists working in Python. |Matplotlib, pandas, numpy
-
+* [Introduction to Python](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Data%20Scientist%20With%20Python/Introduction%20to%20Python%20Course%201)
+  + [Module 1 - Python Basics](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Introduction%20to%20Python%20Course%201/Module%201%20-%20Python%20Basics.ipynb)
+  + [Module 2 - Python Lists](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Introduction%20to%20Python%20Course%201/Module%202%20-%20Python%20Lists.ipynb)
+  + [Module 3 - Functions and Packages](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Introduction%20to%20Python%20Course%201/Module%203%20-%20Functions%20and%20Packages.ipynb)
+  + [Module 4 - NumPy](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Introduction%20to%20Python%20Course%201/Module%204%20-%20NumPy.ipynb)
+* [Intermediate Python for Data Science](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Data%20Scientist%20With%20Python/Intermediate%20Python%20for%20Data%20Science%20Course%202)
+  + [Module 1 - Matplotlib](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Intermediate%20Python%20for%20Data%20Science%20Course%202/Module%201%20-%20%20Matplotlib.ipynb)
+  + [Module 2 - Dictionaries & Pandas](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Intermediate%20Python%20for%20Data%20Science%20Course%202/Module%202%20-%20Dictionaries%20%26%20Pandas.ipynb)
+  + [Module 3 - Logic, Control Flow and Filtering](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Intermediate%20Python%20for%20Data%20Science%20Course%202/Module%203%20-%20Logic%2C%20Control%20Flow%20and%20Filtering.ipynb)
+  + [Module 4 - Loops](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Intermediate%20Python%20for%20Data%20Science%20Course%202/Module%204%20-%20Loops.ipynb)
+  + [Module 5 - Case Study Hacker Statistics](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Intermediate%20Python%20for%20Data%20Science%20Course%202/Module%205%20-%20Case%20Study%20Hacker%20Statistics.ipynb)
+* [Python Data Science Toolbox (Part 1)](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Data%20Scientist%20With%20Python/Python%20Data%20Science%20Toolbox%20(Part%201)%20Course%203)
+* [Python Data Science Toolbox (Part 2)](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Data%20Scientist%20With%20Python/Python%20Data%20Science%20Toolbox%20(Part%202)%20Course%204)
 
 # Python
 
