@@ -22,6 +22,7 @@
 [Disney Movies and Box Office Success](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Python/Disney%20Movies%20and%20Box%20Office%20Success)| Изучили данные о фильмах Disney, а затем построили модель линейной регрессии, чтобы прогнозировать кассовые сборы. | Pandas, seaborn, sklearn, numpy
 [Dr. Semmelweis and the discovery of handwashing](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Python/Dr.%20Semmelweis%20and%20the%20discovery%20of%20handwashing)| Анализ данных, лежащих в основе одного из самых важных открытий современной медицины: мытья рук. | Pandas, matplotlib
 [Exploring 67 years of LEGO](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Python/Exploring%2067%20years%20of%20LEGO)| В этом проекте мы изучим базу данных всех когда-либо созданных наборов LEGO. | Pandas, matplotlib
+[Exploring the Bitcoin Cryptocurrency Market](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Python/Exploring%20the%20Bitcoin%20Cryptocurrency%20Market) | Изучили рыночную капитализацию биткоина и других криптовалют. | Pandas, matplotlib
 [Investigating Netflix Movies and Guest Stars in The Office](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Python/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office)| Изучили реальный набор данных о фильмах Netflix, используя все, от списков и циклов до pandas и matplotlib.| Pandas, matplotlib
 [Real-time Insights from Social Media Data](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Python/Real-time%20Insights%20from%20Social%20Media%20Data)| Научились анализировать данные Twitter и глубоко погрузились в горячие тренды. | Json, collections, matplotlib, pandas
 [Reducing Traffic Mortality in the USA](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Python/Reducing%20Traffic%20Mortality%20in%20the%20USA)| Как мы можем найти хорошую стратегию для снижения смертности в результате дорожно-транспортных происшествий? | Pandas, seaborn, matplotlib, sklearn
@@ -41,6 +42,7 @@
 Название   |Описание | Стек
 :---------:|:-------:|:------:
 [Introduction to DataCamp Projects](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/SQL/Introduction%20to%20DataCamp%20Projects) | Обучающий проект в DataCamp на языке SQL и работе в Jupyter Notebook   | Matplotlib, sqlalchemy, postgreSQL
+[TV, Halftime Shows, and the Big Game](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/SQL/TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game) | Загружены, очищены и исследованы данные Super Bowl в эпоху стремительного роста расходов на рекламу и ярких шоу. | PostgreSQL
 
 
 # Cheat Sheets
