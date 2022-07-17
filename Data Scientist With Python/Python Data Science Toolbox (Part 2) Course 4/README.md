@@ -1,0 +1,4 @@
+# Course Description
+In this second course in the Python Data Science Toolbox, you'll continue to build your Python Data Science skills. First you'll enter the wonderful world of iterators, objects that you have already encountered in the context of for loops without having necessarily known it. You'll then learn about list comprehensions, which are extremely handy tools that form a basic component in the toolbox of all modern Data Scientists working in Python. You'll end the course by working through a case study in which you'll apply all of the techniques you learned both in this course as well as the prequel. If you're looking to make it as a Pythonista Data Science ninja, you have come to the right place.  
+
+<img src = 'https://assets.datacamp.com/production/course_1531/shields/original/shield_image_course_1531_20190610-1-18wh9bq?1560177204'>
