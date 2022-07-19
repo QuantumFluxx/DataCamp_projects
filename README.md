@@ -62,6 +62,11 @@
   + [Module 3 - Additional Plot Types](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Intermediate%20Data%20Visualization%20with%20Seaborn/Module%203%20-%20Additional%20Plot%20Types.ipynb)
   + [Module 4 - Creating Plots on Data Aware Grids](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Intermediate%20Data%20Visualization%20with%20Seaborn/Module%204%20-%20Creating%20Plots%20on%20Data%20Aware%20Grids.ipynb)
   + [Certificate](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Intermediate%20Data%20Visualization%20with%20Seaborn/Intermediate%20Data%20Visualization%20with%20Seaborn%20certificate.pdf)
+* [Introduction to Importing Data in Python](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Data%20Scientist%20With%20Python/Introduction%20to%20Importing%20Data%20in%20Python)
+  + [Module 1 - Introduction and flat files](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Introduction%20to%20Importing%20Data%20in%20Python/Module%201%20-%20Introduction%20and%20flat%20files.ipynb)
+  + [Module 2 - Importing data from other file types](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Introduction%20to%20Importing%20Data%20in%20Python/Module%202%20-%20Importing%20data%20from%20other%20file%20types.ipynb)
+  + [Module 3 - Working with relational databases in Python](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Introduction%20to%20Importing%20Data%20in%20Python/Module%203%20-%20Working%20with%20relational%20databases%20in%20Python.ipynb)
+  + [Certificate](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Introduction%20to%20Importing%20Data%20in%20Python/Introduction%20to%20Importing%20Data%20in%20Python%20certificate.pdf)
 
 # Python Projects
 
