@@ -40,6 +40,12 @@
   + [Module 3 - Visualizing a Categorical and a Quantitative Variable](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Introduction%20to%20Data%20Visualization%20with%20Seaborn/Module%203%20-%20Visualizing%20a%20Categorical%20and%20a%20Quantitative%20Variable.ipynb)
   + [Module 4 - Customizing Seaborn Plots](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Introduction%20to%20Data%20Visualization%20with%20Seaborn/Module%204%20-%20Customizing%20Seaborn%20Plots.ipynb)
   + [Certificate](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Introduction%20to%20Data%20Visualization%20with%20Seaborn/Introduction%20to%20Data%20Visualization%20with%20Seaborn%20certificate.pdf)
+* [Introduction to NumPy](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Data%20Scientist%20With%20Python/Introduction%20to%20NumPy)
+  + [Module 1 - Understanding NumPy Arrays](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Introduction%20to%20NumPy/Module%201%20-%20%20Understanding%20NumPy%20Arrays.ipynb)
+  + [Module 2 - Selecting and Updating Data](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Introduction%20to%20NumPy/Module%202%20-%20Selecting%20and%20Updating%20Data.ipynb)
+  + [Module 3 - Array Mathematics!](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Introduction%20to%20NumPy/Module%203%20-%20Array%20Mathematics!.ipynb)
+  + [Module 4 - Array Transformations](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Introduction%20to%20NumPy/Module%204%20-%20%20Array%20Transformations.ipynb)
+  + [Certificate](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Introduction%20to%20NumPy/Introduction%20to%20NumPy%20certificate.pdf)
 * [Python Data Science Toolbox (Part 1)](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Data%20Scientist%20With%20Python/Python%20Data%20Science%20Toolbox%20(Part%201))
   + [Module 1 - Writing your own functions](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Python%20Data%20Science%20Toolbox%20(Part%201)/Module%201%20-%20Writing%20your%20own%20functions.ipynb)
   + [Module 2 - Default arguments, variable-length arguments and scope](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Python%20Data%20Science%20Toolbox%20(Part%201)/Module%202%20-%20Default%20arguments%2C%20variable-length%20arguments%20and%20scope.ipynb)
@@ -50,6 +56,12 @@
   + [Module 2 - List comprehensions and generators](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Python%20Data%20Science%20Toolbox%20(Part%202)/Module%202%20-%20List%20comprehensions%20and%20generators.ipynb)
   + [Module 3 - Bringing it all together!](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Python%20Data%20Science%20Toolbox%20(Part%202)/Module%203%20-%20Bringing%20it%20all%20together!.ipynb)
   + [Certificate](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Python%20Data%20Science%20Toolbox%20(Part%202)/Python%20Data%20Science%20Toolbox%20(Part%202)%20certificate.pdf)
+* [Intermediate Data Visualization with Seaborn](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Data%20Scientist%20With%20Python/Intermediate%20Data%20Visualization%20with%20Seaborn)
+  + [Module 1 - Seaborn Introduction](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Intermediate%20Data%20Visualization%20with%20Seaborn/Module%201%20-%20Seaborn%20Introduction.ipynb)
+  + [Module 2 - Customizing Seaborn Plots](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Intermediate%20Data%20Visualization%20with%20Seaborn/Module%202%20-%20Customizing%20Seaborn%20Plots.ipynb)
+  + [Module 3 - Additional Plot Types](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Intermediate%20Data%20Visualization%20with%20Seaborn/Module%203%20-%20Additional%20Plot%20Types.ipynb)
+  + [Module 4 - Creating Plots on Data Aware Grids](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Intermediate%20Data%20Visualization%20with%20Seaborn/Module%204%20-%20Creating%20Plots%20on%20Data%20Aware%20Grids.ipynb)
+  + [Certificate](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Intermediate%20Data%20Visualization%20with%20Seaborn/Intermediate%20Data%20Visualization%20with%20Seaborn%20certificate.pdf)
 
 # Python Projects
 
