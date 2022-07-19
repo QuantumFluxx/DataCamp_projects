@@ -1,5 +1,3 @@
-# DataCamp
-
 ![](https://awsmp-logos.s3.amazonaws.com/2d3dc495-924a-4e0d-b1a9-4ef094562f3f/9e47243a932e50e1731ac8a5ee84ed57.png)
 
 
@@ -30,6 +28,18 @@
   + [Module 3 - Advanced Merging and Concatenating](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Joining%20Data%20with%20pandas/Module%203%20-%20Advanced%20Merging%20and%20Concatenating.ipynb)
   + [Module 4 - Merging Ordered and Time-Series Data](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Joining%20Data%20with%20pandas/Module%204%20-%20Merging%20Ordered%20and%20Time-Series%20Data.ipynb)
   + [Certificate](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Joining%20Data%20with%20pandas/Joining%20Data%20with%20pandas%20certificate.pdf)
+* [Introduction to Data Visualization with Matplotlib](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Data%20Scientist%20With%20Python/Introduction%20to%20Data%20Visualization%20with%20Matplotlib)
+  + [Module 1 - Introduction to Matplotlib](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Introduction%20to%20Data%20Visualization%20with%20Matplotlib/Module%201%20-%20%20Introduction%20to%20Matplotlib.ipynb)
+  + [Module 2 - Plotting time-series](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Introduction%20to%20Data%20Visualization%20with%20Matplotlib/Module%202%20-%20Plotting%20time-series.ipynb)
+  + [Module 3 - Quantitative comparisons and statistical visualizations](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Introduction%20to%20Data%20Visualization%20with%20Matplotlib/Module%203%20-%20%20Quantitative%20comparisons%20and%20statistical%20visualizations.ipynb)
+  + [Module 4 - Sharing visualizations with others](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Introduction%20to%20Data%20Visualization%20with%20Matplotlib/Module%204%20-%20Sharing%20visualizations%20with%20others.ipynb)
+  + [Certificate](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Introduction%20to%20Data%20Visualization%20with%20Matplotlib/Introduction%20to%20Data%20Visualization%20with%20Matplotlib%20certificate.pdf)
+* [Introduction to Data Visualization with Seaborn](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Data%20Scientist%20With%20Python/Introduction%20to%20Data%20Visualization%20with%20Seaborn)
+  + [Module 1 - Introduction to Seaborn](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Introduction%20to%20Data%20Visualization%20with%20Seaborn/Module%201%20-%20Introduction%20to%20Seaborn.ipynb)
+  + [Module 2 - Visualizing Two Quantitative Variables](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Introduction%20to%20Data%20Visualization%20with%20Seaborn/Module%202%20-%20Visualizing%20Two%20Quantitative%20Variables.ipynb)
+  + [Module 3 - Visualizing a Categorical and a Quantitative Variable](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Introduction%20to%20Data%20Visualization%20with%20Seaborn/Module%203%20-%20Visualizing%20a%20Categorical%20and%20a%20Quantitative%20Variable.ipynb)
+  + [Module 4 - Customizing Seaborn Plots](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Introduction%20to%20Data%20Visualization%20with%20Seaborn/Module%204%20-%20Customizing%20Seaborn%20Plots.ipynb)
+  + [Certificate](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Introduction%20to%20Data%20Visualization%20with%20Seaborn/Introduction%20to%20Data%20Visualization%20with%20Seaborn%20certificate.pdf)
 * [Python Data Science Toolbox (Part 1)](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Data%20Scientist%20With%20Python/Python%20Data%20Science%20Toolbox%20(Part%201))
   + [Module 1 - Writing your own functions](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Python%20Data%20Science%20Toolbox%20(Part%201)/Module%201%20-%20Writing%20your%20own%20functions.ipynb)
   + [Module 2 - Default arguments, variable-length arguments and scope](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Python%20Data%20Science%20Toolbox%20(Part%201)/Module%202%20-%20Default%20arguments%2C%20variable-length%20arguments%20and%20scope.ipynb)
@@ -41,7 +51,7 @@
   + [Module 3 - Bringing it all together!](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Python%20Data%20Science%20Toolbox%20(Part%202)/Module%203%20-%20Bringing%20it%20all%20together!.ipynb)
   + [Certificate](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Python%20Data%20Science%20Toolbox%20(Part%202)/Python%20Data%20Science%20Toolbox%20(Part%202)%20certificate.pdf)
 
-# Python
+# Python Projects
 
 Название   |Описание | Стек 
 :---------:|:-------:|:----: 
@@ -61,13 +71,13 @@
 [Who Is Drunk and When in Ames, Iowa](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Python/Who%20Is%20Drunk%20and%20When%20in%20Ames%2C%20Iowa)| Изучили данные о тестах на алкоголь в Эймс, Айова, США. | Pandas, matplotlib
 
 
-# R
+# R Projects
 Название   |Описание | Стек 
 :---------:|:-------:|:----: 
 [Dr. Semmelweis and the discovery of handwashing](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/R/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing)| Анализ данных на R, лежащих в основе одного из самых важных открытий современной медицины: мытья рук. | Tidyverse
 [Introduction to DataCamp Projects](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/R/Introduction%20to%20DataCamp%20Projects)| Обучающий проект в DataCamp на языке R. | Forecast, ggplot2
 
-# SQL
+# SQL Projects
 Название   |Описание | Стек
 :---------:|:-------:|:------:
 [Introduction to DataCamp Projects](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/SQL/Introduction%20to%20DataCamp%20Projects) | Обучающий проект в DataCamp на языке SQL и работе в Jupyter Notebook   | Matplotlib, sqlalchemy, postgreSQL
