@@ -67,6 +67,17 @@
   + [Module 2 - Importing data from other file types](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Introduction%20to%20Importing%20Data%20in%20Python/Module%202%20-%20Importing%20data%20from%20other%20file%20types.ipynb)
   + [Module 3 - Working with relational databases in Python](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Introduction%20to%20Importing%20Data%20in%20Python/Module%203%20-%20Working%20with%20relational%20databases%20in%20Python.ipynb)
   + [Certificate](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Introduction%20to%20Importing%20Data%20in%20Python/Introduction%20to%20Importing%20Data%20in%20Python%20certificate.pdf)
+* [Intermediate Importing Data in Python](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Data%20Scientist%20With%20Python/Intermediate%20Importing%20Data%20in%20Python)
+  + [Module 1 - Importing data from the Internet](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Intermediate%20Importing%20Data%20in%20Python/Module%201%20-%20Importing%20data%20from%20the%20Internet.ipynb)
+  + [Module 2 - Interacting with APIs to import data from the web](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Intermediate%20Importing%20Data%20in%20Python/Module%202%20-%20Interacting%20with%20APIs%20to%20import%20data%20from%20the%20web.ipynb)
+  + [Module 3 - Diving deep into the Twitter API](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Intermediate%20Importing%20Data%20in%20Python/Module%203%20-%20%20Diving%20deep%20into%20the%20Twitter%20API.ipynb)
+  + [Certificate](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Intermediate%20Importing%20Data%20in%20Python/Intermediate%20Importing%20Data%20in%20Python%20certificate.pdf)
+* [Cleaning Data in Python](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Data%20Scientist%20With%20Python/Cleaning%20Data%20in%20Python)
+  + [Module 1 - Common data problems](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Cleaning%20Data%20in%20Python/Module%201%20-%20%20Common%20data%20problems.ipynb)
+  + [Module 2 - Text and categorical data problems](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Cleaning%20Data%20in%20Python/Module%202%20-%20Text%20and%20categorical%20data%20problems.ipynb)
+  + [Module 3 - Advanced data problems](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Cleaning%20Data%20in%20Python/Module%203%20-%20%20Advanced%20data%20problems.ipynb)
+  + [Module 4 - Record linkage](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Cleaning%20Data%20in%20Python/Module%204%20-%20Record%20linkage.ipynb)
+  + [Certificate](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Cleaning%20Data%20in%20Python/Cleaning%20Data%20in%20Python.pdf)
 
 # Python Projects
 
