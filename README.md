@@ -78,6 +78,18 @@
   + [Module 3 - Advanced data problems](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Cleaning%20Data%20in%20Python/Module%203%20-%20%20Advanced%20data%20problems.ipynb)
   + [Module 4 - Record linkage](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Cleaning%20Data%20in%20Python/Module%204%20-%20Record%20linkage.ipynb)
   + [Certificate](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Cleaning%20Data%20in%20Python/Cleaning%20Data%20in%20Python.pdf)
+* [Working with Dates and Times in Python](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Data%20Scientist%20With%20Python/Working%20with%20Dates%20and%20Times%20in%20Python)
+  + [Module 1 - Dates and Calendars](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Working%20with%20Dates%20and%20Times%20in%20Python/Module%201%20-%20%20Dates%20and%20Calendars.ipynb)
+  + [Module 2 - Combining Dates and Times](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Working%20with%20Dates%20and%20Times%20in%20Python/Module%202%20-%20Combining%20Dates%20and%20Times.ipynb)
+  + [Module 3 - Time Zones and Daylight Saving](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Working%20with%20Dates%20and%20Times%20in%20Python/Module%203%20-%20Time%20Zones%20and%20Daylight%20Saving.ipynb)
+  + [Module 4 - Easy and Powerful Dates and Times in Pandas](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Working%20with%20Dates%20and%20Times%20in%20Python/Module%204%20-%20Easy%20and%20Powerful%20Dates%20and%20Times%20in%20Pandas.ipynb)
+  + [Certificate](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Working%20with%20Dates%20and%20Times%20in%20Python/Working%20with%20Dates%20and%20Times%20in%20Python%20certificate.pdf)
+* [Writing Functions in Python](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Data%20Scientist%20With%20Python/Writing%20Functions%20in%20Python)
+  + [Module 1 - Best Practices](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Writing%20Functions%20in%20Python/Module%201%20-%20Best%20Practices.ipynb)
+  + [Module 2 - Context Managers](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Writing%20Functions%20in%20Python/Module%202%20-%20Context%20Managers.ipynb)
+  + [Module 3 - Decorators](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Writing%20Functions%20in%20Python/Module%203%20-%20Decorators.ipynb)
+  + [Module 4 - More on Decorators](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Writing%20Functions%20in%20Python/Module%204%20-%20More%20on%20Decorators.ipynb)
+  + [Certificate](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Writing%20Functions%20in%20Python/Writing%20Functions%20in%20Python%20certificate.pdf)
 
 # Python Projects
 
