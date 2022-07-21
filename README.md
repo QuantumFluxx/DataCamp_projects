@@ -2,7 +2,9 @@
 
 
 # Data Scientist With Python
-
+<details>
+<summary>Сlick to view</summary>
+  
 * [Introduction to Python](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Data%20Scientist%20With%20Python/Introduction%20to%20Python)
   + [Module 1 - Python Basics](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Introduction%20to%20Python/Module%201%20-%20Python%20Basics.ipynb)
   + [Module 2 - Python Lists](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Introduction%20to%20Python/Module%202%20-%20Python%20Lists.ipynb)
@@ -90,7 +92,15 @@
   + [Module 3 - Decorators](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Writing%20Functions%20in%20Python/Module%203%20-%20Decorators.ipynb)
   + [Module 4 - More on Decorators](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Writing%20Functions%20in%20Python/Module%204%20-%20More%20on%20Decorators.ipynb)
   + [Certificate](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Writing%20Functions%20in%20Python/Writing%20Functions%20in%20Python%20certificate.pdf)
-
+* [Exploratory Data Analysis in Python](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Data%20Scientist%20With%20Python/Exploratory%20Data%20Analysis%20in%20Python)
+  + [Module 1 - Read, clean, and validate](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Exploratory%20Data%20Analysis%20in%20Python/Module%201%20-%20Read%2C%20clean%2C%20and%20validate.ipynb)
+  + [Module 2 - Distributions](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Exploratory%20Data%20Analysis%20in%20Python/Module%202%20-%20Distributions.ipynb)
+  + [Module 3 - Relationships](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Exploratory%20Data%20Analysis%20in%20Python/Module%203%20-%20Relationships.ipynb)
+  + [Module 4 - Multivariate Thinking](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Exploratory%20Data%20Analysis%20in%20Python/Module%204%20-%20Multivariate%20Thinking.ipynb)
+  + [Certificate](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Exploratory%20Data%20Analysis%20in%20Python/Exploratory%20Data%20Analysis%20in%20Pyhon%20certificate.pdf)
+  
+</details>
+  
 # Python Projects
 
 Название   |Описание | Стек 
