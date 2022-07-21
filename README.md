@@ -3,7 +3,7 @@
 
 # Data Scientist With Python
 <details>
-<summary>Сlick to view</summary>
+<summary>:desktop_computer: Сlick to view</summary>
   
 * [Introduction to Python](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Data%20Scientist%20With%20Python/Introduction%20to%20Python)
   + [Module 1 - Python Basics](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Introduction%20to%20Python/Module%201%20-%20Python%20Basics.ipynb)
@@ -110,6 +110,18 @@
   + [Module 3 - More Distributions and the Central Limit Theorem](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Introduction%20to%20Statistics%20in%20Python/Module%203%20-%20More%20Distributions%20and%20the%20Central%20Limit%20Theorem.ipynb)
   + [Module 4 - Correlation and Experimental Design](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Introduction%20to%20Statistics%20in%20Python/Module%204%20-%20Correlation%20and%20Experimental%20Design.ipynb)
   + [Certificate](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Introduction%20to%20Statistics%20in%20Python/Module%204%20-%20Correlation%20and%20Experimental%20Design.ipynb)
+* [Introduction to Regression with statsmodels in Python](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Data%20Scientist%20With%20Python/Introduction%20to%20Regression%20with%20statsmodels%20in%20Python)
+  + [Module 1 - Simple Linear Regression Modeling](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Introduction%20to%20Regression%20with%20statsmodels%20in%20Python/Module%201%20-%20Simple%20Linear%20Regression%20Modeling.ipynb)
+  + [Module 2 - Predictions and model objects](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Introduction%20to%20Regression%20with%20statsmodels%20in%20Python/Module%202%20-%20Predictions%20and%20model%20objects.ipynb)
+  + [Module 3 - Assessing model fit](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Introduction%20to%20Regression%20with%20statsmodels%20in%20Python/Module%203%20-%20Assessing%20model%20fit.ipynb)
+  + [Module 4 - Simple Logistic Regression Modeling](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Introduction%20to%20Regression%20with%20statsmodels%20in%20Python/Module%204%20-%20Simple%20Logistic%20Regression%20Modeling.ipynb)
+  + [Certificate](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Introduction%20to%20Regression%20with%20statsmodels%20in%20Python/Introduction%20to%20Regression%20with%20statsmodels%20in%20Python%20certificate.pdf)
+* [Sampling in Python](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Data%20Scientist%20With%20Python/Sampling%20in%20Python)
+  + [Module 1 - Bias Any Stretch of the Imagination](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Sampling%20in%20Python/Module%201%20-%20Bias%20Any%20Stretch%20of%20the%20Imagination.ipynb)
+  + [Module 2 - Don't get theory eyed](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Sampling%20in%20Python/Module%202%20-%20Don't%20get%20theory%20eyed.ipynb)
+  + [Module 3 - The n's justify the means](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Sampling%20in%20Python/Module%203%20-%20The%20n's%20justify%20the%20means.ipynb)
+  + [Module 4 - Pull Your Data Up By Its Bootstraps](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Sampling%20in%20Python/Module%204%20-%20Pull%20Your%20Data%20Up%20By%20Its%20Bootstraps.ipynb)
+  + [Certificate](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Sampling%20in%20Python/Sampling%20in%20Python%20certificate.pdf)
   
 </details>
   
