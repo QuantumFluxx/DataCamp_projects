@@ -98,6 +98,18 @@
   + [Module 3 - Relationships](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Exploratory%20Data%20Analysis%20in%20Python/Module%203%20-%20Relationships.ipynb)
   + [Module 4 - Multivariate Thinking](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Exploratory%20Data%20Analysis%20in%20Python/Module%204%20-%20Multivariate%20Thinking.ipynb)
   + [Certificate](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Exploratory%20Data%20Analysis%20in%20Python/Exploratory%20Data%20Analysis%20in%20Pyhon%20certificate.pdf)
+* [Analyzing Police Activity with pandas](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Data%20Scientist%20With%20Python/Analyzing%20Police%20Activity%20with%20pandas)
+  + [Module 1 - Preparing the data for analysis](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Analyzing%20Police%20Activity%20with%20pandas/Module%201%20-%20Preparing%20the%20data%20for%20analysis.ipynb)
+  + [Module 2 - Exploring the relationship between gender and policing](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Analyzing%20Police%20Activity%20with%20pandas/Module%202%20-%20%20Exploring%20the%20relationship%20between%20gender%20and%20policing.ipynb)
+  + [Module 3 - Visual exploratory data analysis](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Analyzing%20Police%20Activity%20with%20pandas/Module%203%20-%20%20Visual%20exploratory%20data%20analysis.ipynb)
+  + [Module 4 - Analyzing the effect of weather on policing](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Analyzing%20Police%20Activity%20with%20pandas/Module%204%20-%20Analyzing%20the%20effect%20of%20weather%20on%20policing.ipynb)
+  + [Certificate](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Analyzing%20Police%20Activity%20with%20pandas/Analyzing%20Police%20Activity%20with%20pandas%20certificate.pdf)
+* [Introduction to Statistics in Python](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Data%20Scientist%20With%20Python/Introduction%20to%20Statistics%20in%20Python)
+  + [Module 1 - Summary Statistics](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Introduction%20to%20Statistics%20in%20Python/Module%201%20-%20Summary%20Statistics.ipynb)
+  + [Module 2 - Random Numbers and Probability](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Introduction%20to%20Statistics%20in%20Python/Module%202%20-%20Random%20Numbers%20and%20Probability.ipynb)
+  + [Module 3 - More Distributions and the Central Limit Theorem](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Introduction%20to%20Statistics%20in%20Python/Module%203%20-%20More%20Distributions%20and%20the%20Central%20Limit%20Theorem.ipynb)
+  + [Module 4 - Correlation and Experimental Design](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Introduction%20to%20Statistics%20in%20Python/Module%204%20-%20Correlation%20and%20Experimental%20Design.ipynb)
+  + [Certificate](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Introduction%20to%20Statistics%20in%20Python/Module%204%20-%20Correlation%20and%20Experimental%20Design.ipynb)
   
 </details>
   
