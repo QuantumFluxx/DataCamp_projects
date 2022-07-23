@@ -3,7 +3,7 @@
 
 # Data Scientist With Python
 <details>
-<summary>:desktop_computer: Сlick to view</summary>
+<summary>:desktop_computer: <strong>Сlick to view</strong> </summary>
   
 * [Introduction to Python](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Data%20Scientist%20With%20Python/Introduction%20to%20Python)
   + [Module 1 - Python Basics](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Introduction%20to%20Python/Module%201%20-%20Python%20Basics.ipynb)
