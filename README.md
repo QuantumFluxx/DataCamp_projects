@@ -125,7 +125,30 @@
   
 </details>
   
+# Tableau Fundamentals
+
+<details>
+<summary>:desktop_computer: <strong>Сlick to view</strong> </summary>
+  
+* [Introduction to Tableau](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Tableau%20Fundamentals/Introduction%20to%20Tableau)
+  + [Getting Started with Tableau](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Tableau%20Fundamentals/Introduction%20to%20Tableau/%20Getting%20Started%20with%20Tableau)
+  + [Building and Customizing Visualizations](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Tableau%20Fundamentals/Introduction%20to%20Tableau/Building%20and%20Customizing%20Visualizations)
+  + [Digging Deeper](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Tableau%20Fundamentals/Introduction%20to%20Tableau/Digging%20Deeper)
+  + [Presenting Your Data](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Tableau%20Fundamentals/Introduction%20to%20Tableau/Presenting%20Your%20Data)
+  + [Certificate](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Tableau%20Fundamentals/Introduction%20to%20Tableau/Introduction%20to%20Tableau%20certificate.pdf)
+* [Analyzing Data in Tableau](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Tableau%20Fundamentals/Analyzing%20Data%20in%20Tableau)
+  + [Preparing for Analysis](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Tableau%20Fundamentals/Analyzing%20Data%20in%20Tableau/Preparing%20for%20Analysis)
+  + [Exploring Visualizations](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Tableau%20Fundamentals/Analyzing%20Data%20in%20Tableau/Exploring%20Visualizations)
+  + [Mapping Analysis](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Tableau%20Fundamentals/Analyzing%20Data%20in%20Tableau/Mapping%20Analysis)
+  + [Groups, Sets, and Parameters](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Tableau%20Fundamentals/Analyzing%20Data%20in%20Tableau/Groups%2C%20Sets%2C%20and%20Parameters)
+  + [Certificate](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Tableau%20Fundamentals/Analyzing%20Data%20in%20Tableau/Analyzing%20Data%20in%20Tableau%20certificate.pdf)
+  
+</details>
+
 # Python Projects
+
+<details>
+<summary>:desktop_computer: <strong>Сlick to view</strong> </summary>
 
 Название   |Описание | Стек 
 :---------:|:-------:|:----: 
@@ -144,21 +167,36 @@
 [The GitHub History of the Scala Language](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Python/The%20GitHub%20History%20of%20the%20Scala%20Language)|Нашли настоящих экспертов по Scala, изучив историю ее разработки в Git и GitHub.| Pandas, matplotlib
 [Who Is Drunk and When in Ames, Iowa](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Python/Who%20Is%20Drunk%20and%20When%20in%20Ames%2C%20Iowa)| Изучили данные о тестах на алкоголь в Эймс, Айова, США. | Pandas, matplotlib
 
+</details>
 
 # R Projects
+
+<details>
+<summary>:desktop_computer: <strong>Сlick to view</strong> </summary>
+
 Название   |Описание | Стек 
 :---------:|:-------:|:----: 
 [Dr. Semmelweis and the discovery of handwashing](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/R/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing)| Анализ данных на R, лежащих в основе одного из самых важных открытий современной медицины: мытья рук. | Tidyverse
 [Introduction to DataCamp Projects](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/R/Introduction%20to%20DataCamp%20Projects)| Обучающий проект в DataCamp на языке R. | Forecast, ggplot2
 
+</details>
+
 # SQL Projects
+
+<details>
+<summary>:desktop_computer: <strong>Сlick to view</strong> </summary>
+
 Название   |Описание | Стек
 :---------:|:-------:|:------:
 [Introduction to DataCamp Projects](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/SQL/Introduction%20to%20DataCamp%20Projects) | Обучающий проект в DataCamp на языке SQL и работе в Jupyter Notebook   | Matplotlib, sqlalchemy, postgreSQL
 [TV, Halftime Shows, and the Big Game](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/SQL/TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game) | Загружены, очищены и исследованы данные Super Bowl в эпоху стремительного роста расходов на рекламу и ярких шоу. | PostgreSQL
 
+</details>
 
 # Cheat Sheets
+
+<details>
+<summary>:desktop_computer: <strong>Сlick to view</strong> </summary>
 
 * [AI](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Cheat%20Sheets/AI)
 * [Big Data](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Cheat%20Sheets/Big%20Data)
@@ -172,6 +210,8 @@
 * [R Programming](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Cheat%20Sheets/R%20Programming)
 * [SQL](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Cheat%20Sheets/SQL)
 * [Tableau](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Cheat%20Sheets/Tableau)
+
+</details>
 
 ---------------------
 
