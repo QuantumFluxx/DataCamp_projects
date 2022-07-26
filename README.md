@@ -221,3 +221,5 @@
 **В репозиторий [pet_projects](https://github.com/QuantumFluxx/pet_projects) сохраняю pet-проекты.**
 
 **В репозиторий [Stepik_courses](https://github.com/QuantumFluxx/Stepik_courses) сохраняю пройденные курсы.**
+
+**В репозиторий [codewars_solutions](https://github.com/QuantumFluxx/codewars_solutions) сохраняются решения кат с ресурса www.codewars.com на языках Python, JavaScript, SQL.**
