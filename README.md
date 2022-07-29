@@ -1,9 +1,18 @@
 ![](https://awsmp-logos.s3.amazonaws.com/2d3dc495-924a-4e0d-b1a9-4ef094562f3f/9e47243a932e50e1731ac8a5ee84ed57.png)
 
+<div id="badges" align="center">
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/QuantumFluxx/DataCamp_projects.svg)](https://github.com/QuantumFluxx/DataCamp_projects) 
+[![GitHub commit activity the past week, 4 weeks, year](https://img.shields.io/github/commit-activity/y/QuantumFluxx/DataCamp_projects.svg)](https://github.com/QuantumFluxx/DataCamp_projects) 
+[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/QuantumFluxx/DataCamp_projects.svg)](https://github.com/QuantumFluxx/DataCamp_projects)
+![ViewCount](https://views.whatilearened.today/views/github/QuantumFluxx/DataCamp_projects.svg?cache=remove)
+![GitHub top language](https://img.shields.io/github/languages/top/QuantumFluxx/DataCamp_projects.svg?style=flat)
+
+</div>
 
 # Data Scientist With Python
 <details>
-<summary>:desktop_computer: <strong>Сlick to view</strong> </summary>
+<summary>:desktop_computer: <kbd>Сlick to view content</kbd> </summary>
   
 * [Introduction to Python](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Data%20Scientist%20With%20Python/Introduction%20to%20Python)
   + [Module 1 - Python Basics](https://github.com/QuantumFluxx/DataCamp_projects/blob/main/Data%20Scientist%20With%20Python/Introduction%20to%20Python/Module%201%20-%20Python%20Basics.ipynb)
@@ -128,7 +137,7 @@
 # Tableau Fundamentals
 
 <details>
-<summary>:desktop_computer: <strong>Сlick to view</strong> </summary>
+<summary>:desktop_computer: <kbd>Сlick to view content</kbd> </summary>
   
 * [Introduction to Tableau](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Tableau%20Fundamentals/Introduction%20to%20Tableau)
   + [Getting Started with Tableau](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Tableau%20Fundamentals/Introduction%20to%20Tableau/%20Getting%20Started%20with%20Tableau)
@@ -148,7 +157,7 @@
 # Python Projects
 
 <details>
-<summary>:desktop_computer: <strong>Сlick to view</strong> </summary>
+<summary>:desktop_computer: <kbd>Сlick to view content</kbd> </summary>
 
 Название   |Описание | Стек 
 :---------:|:-------:|:----: 
@@ -172,7 +181,7 @@
 # R Projects
 
 <details>
-<summary>:desktop_computer: <strong>Сlick to view</strong> </summary>
+<summary>:desktop_computer: <kbd>Сlick to view content</kbd> </summary>
 
 Название   |Описание | Стек 
 :---------:|:-------:|:----: 
@@ -184,7 +193,7 @@
 # SQL Projects
 
 <details>
-<summary>:desktop_computer: <strong>Сlick to view</strong> </summary>
+<summary>:desktop_computer: <kbd>Сlick to view content</kbd> </summary>
 
 Название   |Описание | Стек
 :---------:|:-------:|:------:
@@ -196,7 +205,7 @@
 # Cheat Sheets
 
 <details>
-<summary>:desktop_computer: <strong>Сlick to view</strong> </summary>
+<summary>:desktop_computer: <kbd>Сlick to view content</kbd> </summary>
 
 * [AI](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Cheat%20Sheets/AI)
 * [Big Data](https://github.com/QuantumFluxx/DataCamp_projects/tree/main/Cheat%20Sheets/Big%20Data)
