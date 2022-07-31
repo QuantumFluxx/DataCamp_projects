@@ -232,3 +232,5 @@
 **В репозиторий [Stepik_courses](https://github.com/QuantumFluxx/Stepik_courses) сохраняю пройденные курсы.**
 
 **В репозиторий [codewars_solutions](https://github.com/QuantumFluxx/codewars_solutions) сохраняются решения кат с ресурса www.codewars.com на языках Python, JavaScript, SQL.**
+
+**В репозиторий [HackerRank_solutions](https://github.com/QuantumFluxx/HackerRank_solutions) сохраняю решения проблем с ресурса www.hackerrank.com.**
