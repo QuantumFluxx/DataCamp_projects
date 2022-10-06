@@ -2,6 +2,7 @@
 
 <div id="badges" align="center">
 
+[![DataCamp](https://img.shields.io/badge/website-DataCamp-green)](https://www.datacamp.com/)
 [![GitHub last commit](https://img.shields.io/github/last-commit/QuantumFluxx/DataCamp_projects.svg)](https://github.com/QuantumFluxx/DataCamp_projects) 
 [![GitHub commit activity the past week, 4 weeks, year](https://img.shields.io/github/commit-activity/y/QuantumFluxx/DataCamp_projects.svg)](https://github.com/QuantumFluxx/DataCamp_projects) 
 [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/QuantumFluxx/DataCamp_projects.svg)](https://github.com/QuantumFluxx/DataCamp_projects)
